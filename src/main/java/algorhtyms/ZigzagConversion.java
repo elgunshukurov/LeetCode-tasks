@@ -30,7 +30,7 @@ public class ZigzagConversion {
                 System.out.println("vertical:" + j +" -> -"+ sb[j].toString());
             }
             System.out.println("-----");
-            // diagonally updwards
+            // diagonally upward
             for (int j = numRows - 2; j >= 1 && i < length; j--){
                 sb[j].append(s.charAt(i++));
                 System.out.println("diagonal:" +  j +" -> -"+ sb[j].toString());
