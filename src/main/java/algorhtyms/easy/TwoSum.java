@@ -1,4 +1,4 @@
-package algorhtyms;
+package algorhtyms.easy;
 
 import java.util.Arrays;
 

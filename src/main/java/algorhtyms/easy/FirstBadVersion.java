@@ -1,4 +1,4 @@
-package algorhtyms;
+package algorhtyms.easy;
 
 public class FirstBadVersion {
     public static void main(String[] args) {

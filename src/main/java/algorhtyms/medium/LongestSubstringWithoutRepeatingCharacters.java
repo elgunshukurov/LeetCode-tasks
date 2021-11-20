@@ -1,8 +1,8 @@
-package algorhtyms;
+package algorhtyms.medium;
 
 import java.util.*;
 
-public class longestSubstringWithoutRepeatingCharacters {
+public class LongestSubstringWithoutRepeatingCharacters {
 
     public static void main(String[] args) {
 
