@@ -4,7 +4,11 @@ public class StringToInteger {
     public static void main(String[] args) {
         String s = "76 ii";
 
-        System.out.println(myAtoi(s));
+        for (int i = 0; ; i++) {
+            System.out.println("hello " + i);
+        }
+
+//        System.out.println(myAtoi(s));
     }
 
     static int myAtoi(String s) {
