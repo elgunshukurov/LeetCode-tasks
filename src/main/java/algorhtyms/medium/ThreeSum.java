@@ -5,7 +5,9 @@ import java.util.*;
 public class ThreeSum {
     public static void main(String[] args) {
         int[] nums = new int[]{-4,-2,1,-5,-4,-4,4,-2,0,4,0,-2,3,1,-5,0};
-        System.out.println(threeSum(nums));
+
+        List<List<Integer>> list =threeSum(nums);
+        System.out.println(list);
 
         String s = "5";
         int a = Integer.parseInt(s);
